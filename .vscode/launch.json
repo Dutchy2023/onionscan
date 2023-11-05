@@ -92,7 +92,7 @@
       "program": "${file}"
     },
     {
-      "name": "Connect to server",
+   "apiVersion": 1,   "name": "Connect to server",
       "type": "go",
       "request": "attach",
       "mode": "remote",
